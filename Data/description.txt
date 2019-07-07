@@ -1,0 +1,12 @@
+Data is in "data" folder:
+  "poiList-ijcai15" - contains a file for each city with its POIs
+  "usersVisits-ijcai15" - contains a file for each city with its user visits in POIs
+  "costProf-ijcai15" - contains a file for each cite with its distances between all POIs
+  "tripAdvisor" - contains files for Toronto, Osaka, Vienna and Budapest with the data extracted from TripAdivsor
+  "treatment" - contains statistics after treatment done by Gaby
+------------------------------------------------------------------
+References / Citations
+------------------------------------------------------------------
+If you use this dataset, please cite the following papers:
+ - Kwan Hui Lim, Jeffrey Chan, Christopher Leckie and Shanika Karunasekera. "Personalized Tour Recommendation based on User Interests and Points of Interest Visit Durations". In Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI'15). Pg 1778-1784. Jul 2015.
+ - Kwan Hui Lim, Jeffrey Chan, Christopher Leckie and Shanika Karunasekera. "Towards Next Generation Touring: Personalized Group Tours". In Proceedings of the 26th International Conference on Automated Planning and Scheduling (ICAPS'16). Pg 412-420. Jun 2016.

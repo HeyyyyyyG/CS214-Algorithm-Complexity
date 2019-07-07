@@ -1,0 +1,17 @@
+==================================================================
+POI Cost-Profit Table
+==================================================================
+
+Dataset Information: 
+This dataset comprises various cost-profit tables (for eight cities) that indicate the cost (based on distance) required to travel from one points-of-interest (POI) to another POI, and the resulting profit (based on popularity) gained from reaching that POI. These cost-profit tables are derived from the "Flickr User-POI Visits" dataset, i.e., the various "userVisits-{cityName}.csv" files.
+
+File Description:
+There are a total of eight files, each named "costProfCat-{cityName}POI-all.csv", where each row indicated a link from one POI to another and the associated cost (distance), profit (popularity), theme (category) and lat/lon coordinates.
+
+The cost-profit table for each city is stored in a single csv file that contains the following columns/fields:
+ - from: poiID of the starting POI.
+ - to: poiID of the destination POI.
+ - cost: distance (metres) between the starting POI (from) to the destination POI (to).
+ - profit: popularity of the destination POI (to), based on number of POI visits
+ - theme: category of the POI (e.g., Park, Museum, Cultural, etc).
+

@@ -1,0 +1,13 @@
+==================================================================
+List of Trip Advisior
+==================================================================
+
+File Description:
+This dataset describes the average grade of each POI in a specific. The grade is 0-5, which denotes the POI's popularity. 
+
+The list of POI for each city is stored in a single csv file that contains the following columns/fields:
+ - id: ID of the POI
+ - score_out_of_5: the score of the POI, from 0 to 5
+ - # of review: the number of the reviewer
+ - # of things to do: Ignore
+ - amount_of_things_to_do_in_city: Ignore
